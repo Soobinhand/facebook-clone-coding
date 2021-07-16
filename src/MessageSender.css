@@ -48,3 +48,14 @@
     color: gray;
     margin: 5px;
 }
+
+.messageSender__option > h3{
+    font-size: medium;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.messageSender__option:hover{
+    background-color: firebrick;
+    border-radius: 20px;
+}
