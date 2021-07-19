@@ -1,5 +1,7 @@
-페이스북 클론 코딩
+제목 : React JS를 이용한 facebook 클론 코딩 프로젝트.
 
-firebase를 사용한 DB 구축 및 관리 / 서버 / 배포
+내용 : 세계적으로 가장 유명한 facebook의 첫 화면을 React를 이용해 클론 코딩을 했음.
 
-react를 이용한 웹 디자인 구축 및 관리
+기술 : React JS / Firebase
+
+유형 : 1인 프로젝트
